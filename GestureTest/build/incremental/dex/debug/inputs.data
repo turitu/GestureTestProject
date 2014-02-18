@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1392756830000 400 ddc83b7df2d5dd6627ea8c2bf08f3cfc0a2cdfdf /Users/markuslandin/AndroidStudioProjects/GestureTestProject/GestureTest/build/classes/debug/com/turitu/gesturetest/R$menu.class
+1392756830000 961 db336726bfadc1f5b16fab32b921af6eff56a849 /Users/markuslandin/AndroidStudioProjects/GestureTestProject/GestureTest/build/classes/debug/com/turitu/gesturetest/MainActivity$1.class
+1392756830000 1478 4aa0bee72922ba09e976031c9ccfb4006ee924a4 /Users/markuslandin/AndroidStudioProjects/GestureTestProject/GestureTest/build/classes/debug/com/turitu/gesturetest/MainActivity$DummySectionFragment.class
+1392756830000 474 50d0b04960fe880b2e1ff2bf8627946c5558a4f1 /Users/markuslandin/AndroidStudioProjects/GestureTestProject/GestureTest/build/classes/debug/com/turitu/gesturetest/BuildConfig.class
+1392756830000 443 53a17163d50eff81576e79ac9270caab2eebb9e9 /Users/markuslandin/AndroidStudioProjects/GestureTestProject/GestureTest/build/classes/debug/com/turitu/gesturetest/R$style.class
+1392756830000 458 e7d97264e911be1637e006f5b9f020747f0a48d9 /Users/markuslandin/AndroidStudioProjects/GestureTestProject/GestureTest/build/classes/debug/com/turitu/gesturetest/R$layout.class
+1392756830000 717 e271962360809094d3ddceb1bd468d4434072658 /Users/markuslandin/AndroidStudioProjects/GestureTestProject/GestureTest/build/classes/debug/com/turitu/gesturetest/R.class
+1392756830000 3214 22a5996e94c5946a3be2fdc94c931bf4c2c3132d /Users/markuslandin/AndroidStudioProjects/GestureTestProject/GestureTest/build/classes/debug/com/turitu/gesturetest/MainActivity.class
+1392756830000 473 45c5bfc0491706fb353365beefb1b9b4de379c51 /Users/markuslandin/AndroidStudioProjects/GestureTestProject/GestureTest/build/classes/debug/com/turitu/gesturetest/R$dimen.class
+1392756830000 1864 30a538d6dfed83e80e916f450958c748b6da1874 /Users/markuslandin/AndroidStudioProjects/GestureTestProject/GestureTest/build/classes/debug/com/turitu/gesturetest/MainActivity$SectionsPagerAdapter.class
+1392756830000 352 a7dd174893fc1bd7999f7f6806c227aaf7ac1d3a /Users/markuslandin/AndroidStudioProjects/GestureTestProject/GestureTest/build/classes/debug/com/turitu/gesturetest/R$attr.class
+1392756830000 471 e0e963ce7fd5c347eae97e820a4a7c2209dde8e2 /Users/markuslandin/AndroidStudioProjects/GestureTestProject/GestureTest/build/classes/debug/com/turitu/gesturetest/R$id.class
+1391550585000 635903 587da9a481ffd341d2fa091704489b89845ddacd /Users/markuslandin/adt-bundle-mac-x86_64-20130522/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar
+1392756830000 419 5e7efc00c71db0689ffdfcf8564778f081c5d136 /Users/markuslandin/AndroidStudioProjects/GestureTestProject/GestureTest/build/classes/debug/com/turitu/gesturetest/R$drawable.class
+1392756830000 563 73aef095820697a78dd043f3adc0ab2f28383a95 /Users/markuslandin/AndroidStudioProjects/GestureTestProject/GestureTest/build/classes/debug/com/turitu/gesturetest/R$string.class
